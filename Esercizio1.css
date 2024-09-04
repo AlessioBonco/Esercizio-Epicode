@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+}
+header img {
+width: 300px ;
+margin: auto;
+}
+nav{
+    background-color: rgb(255, 241, 171);
+    margin: 10px 0;
+    border-top: solid 2px orange;
+padding: 15px 0;
+}
+section h1 {
+    text-align: center;
+}
+.P1 {
+    margin: 0px 350px 0px 350px;
+}
+section img {
+width: 800px;
+height: 500px;
+margin: 10px 35px 10px 350px;
+border-radius: 10px;
+}
+.descrizioneimmagine {
+margin: 10px 0px 0px 700px
+}
+.featured {
+    margin: 10PX 0PX 0PX 350px;
+    border-left: solid orange;
+}
+.featured2 {
+margin: 0px 0px 0px 350px;
+border-left: solid orange;
+}
+.ingredients {
+    margin: 0 350px 0 350px;
+    padding:10px 10px;
+    line-height: 2.5em;
+
+}
+footer {
+    margin: 10px 350px;
+}
+.ingredients h2 {
+    border-bottom: solid;
+}
